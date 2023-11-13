@@ -1,1 +1,1 @@
-The Pascal triangle algorithm directory
+# The pascals triangle in python.

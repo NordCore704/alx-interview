@@ -1,1 +1,1 @@
-The minimu operations repo readme
+# 0x02-minimum_operations
